@@ -1,0 +1,29 @@
+Literal Characters - Matches the exact sequence of characters as written.
+Dot (.) - Matches any single character except a newline.
+Caret (^) – Matches the start of the string. 
+Dollar ($) – It checks the end of the word. 
+Square Brackets ([ ]) – Matches any one of the characters inside the brackets. 
+Hyphen (-) – Defines a range inside square brackets. 
+Asterisk (*) – Matches zero or more repetitions of the preceding element.
+Plus (+) – Matches one or more repetitions of the preceding element.
+Question Mark (?) – Matches zero or one repetition of the preceding element.
+Parentheses (()) – Used for grouping.
+Pipe (|) – Acts as an OR operator.
+Backslash () – Escapes special characters.
+\d – Matches any digit (0-9).
+\D – Matches any non-digit character.
+\w – Matches any letter, digit, or underscore.
+\W – Matches any character except letters, digits, or underscores.
+\s – Matches any whitespace character (space, tab, newline).
+\S – Matches any non-whitespace character.
+
+
+
+
+
+
+
+
+
+
+
